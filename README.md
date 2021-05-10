@@ -1,0 +1,2 @@
+# newstore
+django
